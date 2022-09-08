@@ -22,10 +22,10 @@
 
 ### 检测工具
 
-- [memShell](https://github.com/rebeyond/memShell) - a webshell resides in the memory of java web server
+- [GScan](https://github.com/grayddq/GScan) - 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。
 
 ## 红队
-- [copagent](https://github.com/LandGrey/copagent) - A java memory web shell extracting tool
+- [vbackdoor](https://github.com/veo/vbackdoor) - Hide process,port,self under Linux using the LD_PRELOAD rootkit.
 
 ### 红队工具
 - [jattach](https://github.com/apangin/jattach) - The utility to send commands to a JVM process via Dynamic Attach mechanism
