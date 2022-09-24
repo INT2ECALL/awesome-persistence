@@ -26,6 +26,7 @@
 
 ## 红队
 - [vbackdoor](https://github.com/veo/vbackdoor) - Hide process,port,self under Linux using the LD_PRELOAD rootkit.
+- [RPC-Backdoor](https://github.com/eladshamir/RPC-Backdoor) - This project is a basic implementation of an "RPC Backdoor" meant to emulate TTPs used by certain groups.
 
 ### 红队工具
 - [jattach](https://github.com/apangin/jattach) - The utility to send commands to a JVM process via Dynamic Attach mechanism
