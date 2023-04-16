@@ -30,6 +30,8 @@
 - [ContextMenuHijack](https://github.com/RistBS/ContextMenuHijack) -is a simple persistence technique that use COM hijacking based on human behavior, when you right click on a file/folder in the File Explorer to open the Context Menu, it executes at the same time the beacon we specified.
 - [Win32_Offensive_Cheatsheet](https://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet) - 
 https://github.com/XaFF-XaFF/CaveCarver
+https://github.com/sorabug/ChangeTimestamp
+
 ### 红队工具
 - [jattach](https://github.com/apangin/jattach) - The utility to send commands to a JVM process via Dynamic Attach mechanism
 
