@@ -31,6 +31,7 @@
 - [Win32_Offensive_Cheatsheet](https://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet) - 
 https://github.com/XaFF-XaFF/CaveCarver
 https://github.com/sorabug/ChangeTimestamp
+https://github.com/nu1r/GoLangUnhooker
 
 ### 红队工具
 - [jattach](https://github.com/apangin/jattach) - The utility to send commands to a JVM process via Dynamic Attach mechanism
