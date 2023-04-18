@@ -32,7 +32,7 @@
 https://github.com/XaFF-XaFF/CaveCarver
 https://github.com/sorabug/ChangeTimestamp
 https://github.com/nu1r/GoLangUnhooker
-
+https://github.com/VirtualAlllocEx/AV-EPP-EDR-Windows-API-Hooking-List
 ### 红队工具
 - [jattach](https://github.com/apangin/jattach) - The utility to send commands to a JVM process via Dynamic Attach mechanism
 
